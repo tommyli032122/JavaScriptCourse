@@ -1,0 +1,11 @@
+.class1 {
+    padding: 10px;
+    color: orange;
+    border: 1px dotted orange;
+}
+
+.success {
+    padding: 10px;
+    color: gray;
+    border: 1px dotted gray;
+}
